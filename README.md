@@ -32,3 +32,5 @@ https://raw.githubusercontent.com/denji107520-ship-it/dantes-valenced-themes/mai
 3. Tap **Add Repository** and paste the **Repository URL** above.
 4. Install **Zero Two — Sakura Darling** from the repository list.
 5. Go to **Settings → Valenced → Themes**, select **Zero Two — Sakura Darling**, and tap **Reload to apply changes**.
+
+6. (as of rn its not working but I will fix adding it to github sometime, for now just download the zip file and add it in the plugin section)
