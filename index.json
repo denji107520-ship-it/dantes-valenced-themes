@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "name": "Dante's Valenced Themes",
+  "description": "Custom Zero Two themes provided by Dante",
+  "plugins": [
+    {
+      "id": "custom.zerotwo.pinkfrosted",
+      "name": "Zero Two — Sakura Darling",
+      "description": "Frosted sakura pink & deep rosewood Zero Two theme — provided by Dante",
+      "version": "1.0.0",
+      "dependencies": {
+        "valenced.api": { "version": ">=1 <2" },
+        "discord": { "version": "*" },
+        "valenced.api.themes": {}
+      },
+      "dist": {
+        "url": "https://githubusercontent.com"
+      }
+    }
+  ]
+}
