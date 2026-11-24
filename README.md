@@ -9,7 +9,8 @@ A collection of custom themes for **Valenced**, created and provided by **Dante*
 Copy and paste this link into Valenced (**Settings → Valenced → Repositories → Add Repository**):
 
 ```text
-https://githubusercontent.com
+https://raw.githubusercontent.com/denji107520-ship-it/dantes-valenced-themes/main/index.json
+
 ```
 
 ---
